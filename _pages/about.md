@@ -44,11 +44,11 @@ After my graduation, the team refined and expanded on this work, which led to a 
 
 Further, I was also deeply involved in the Peer Tutoring program, where I tutored several topics in Mathematics and Statistics, such as: Probability, Statistical Inference, Linear Algebra, Real Analysis, Proof, and Modelling and Optimization. 
 
+### miscellaneous
 In my years working as a Software engineer, I retain my interest towards research, computational statistics, and mathematics. 
 My latest interests includes keeping up with [Technical AI Safety](https://www.lesswrong.com/posts/tG9LGHLzQezH3pvMs/recommendations-for-technical-ai-safety-research-directions) discussions and attempting to formalize probability proofs in [Lean](https://lean-lang.org/).
-Admittedly, I drift in and out of these “projects”, but have always hoped that I will someday have time to dedicate more to these pursuits.
+I drift in and out of these “projects”, but have always hoped that I will someday have time to dedicate more to these pursuits.
 
-### miscellaneous
 My legal name is Kristoforus Bryant Odang, which is also the name I have been using in my articles and publications. People call me Kris.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
