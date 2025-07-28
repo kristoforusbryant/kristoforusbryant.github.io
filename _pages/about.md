@@ -46,7 +46,7 @@ Further, I was also deeply involved in the Peer Tutoring program, where I tutore
 
 ### miscellaneous
 In my years working as a Software engineer, I retain my interest towards research, machine learning, Bayesian data analysis, and mathematics. 
-My latest interests includes keeping up with [Technical AI Safety](https://www.lesswrong.com/posts/tG9LGHLzQezH3pvMs/recommendations-for-technical-ai-safety-research-directions) discussions and attempting to formalize probability proofs in [Lean](https://lean-lang.org/).
+My latest interests includes keeping up with [Technical AI Safety](https://www.lesswrong.com/bestoflesswrong?year=2023&category=ai%20safety) discussions and attempting to formalize probability proofs in [Lean](https://lean-lang.org/).
 I drift in and out of these “projects”, but have always hoped that someday I will have time to dedicate more to these pursuits.
 
 My legal name is Kristoforus Bryant Odang, which is also the name I have been using in my articles and publications. People call me Kris.
